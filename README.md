@@ -1,1 +1,4 @@
-# mrchicos.github.io
+I have [25 years of experienc](https://www.linkedin.com/in/ruiwang/) in the software industry, working at companies ranging from startups to Big Tech (LinkedIn/Microsoft), including a 15-year journey at  LinkedIn, from joining pre-IPO with approximately 300 employees to becoming part of Microsoft.
+Earlier in my career, creating innovative technical solutions, making significant business impacts, and publishing papers were what fueled me. That slowly shifted to sharing my own learning and reflections, identifying strengths in others, and giving them the right opportunities to unleash their potential. Four years ago, I fully committed myself to a managerial role, managing around 20 engineers over time, and helping seven of them move to the next level in their careers. Having been on both sides (individual contributor vs manager), I experienced different perspectives and challenges firsthand, and love to help fellow engineers and managers understand how to navigate opportunities and changes in their careers.
+
+I understand the power of support and would love to make a meaningful positive impact on your career journey.
